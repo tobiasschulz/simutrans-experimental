@@ -3,6 +3,8 @@
  * von Hansjörg Malthaner
  */
 
+#include <algorithm>    // std::max
+
 #include <stdlib.h>
 
 #include "simdebug.h"
